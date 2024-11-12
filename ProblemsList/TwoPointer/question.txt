@@ -1,0 +1,11 @@
+John has been assigned a task by his mentor. He is given a sorted array and a target number. For each element in the array, he needs to find its complemento, which is defined as target - current_element.
+
+For every element in the array, print its complemento if it exists; otherwise, print -1.
+
+Input:
+The first line of input contains single integer N
+The second line contains an array of length N
+The third line contains a target 
+
+Output:
+print complemento for every element in array

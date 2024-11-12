@@ -1,0 +1,8 @@
+
+John has been assigned a task by his mentor. He is given a string of parentheses, containing only the characters '(' and ')'. His task is to determine if the entire string of parentheses is valid. A string of parentheses is considered valid if every opening parenthesis has a corresponding closing parenthesis in the correct order.
+
+If the string is valid, print 1; otherwise, print 0.
+
+Input:
+The first line of input contains a single integer N, the length of the parentheses string.
+The second line contains a string of length N, consisting only of the characters '(' and ')'.
